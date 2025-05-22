@@ -37,7 +37,7 @@ https://www.linkedin.com/in/tikondwe-kaonga-3b1062323/
 ---
 
 
-Coldloop.exe – Custom License
+**Coldloop.exe –  LICENSE**
 
 Copyright (c) 2025 [Your Full Name]
 All rights reserved.
@@ -77,4 +77,7 @@ CONTACT
 To request permission or discuss licensing options, email:
 
 mathiusmelo@gmail.com
+
+
+
 
